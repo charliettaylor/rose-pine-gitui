@@ -5,6 +5,8 @@
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
+WIP: conform to https://github.com/rose-pine/rose-pine-template next
+
 # Usage
 1. Locate your system's GitUI config location
 2. Clone this repo and choose your variant
@@ -24,3 +26,9 @@ Config locations ![here](https://github.com/gitui-org/gitui/blob/master/THEMES.m
 git clone https://github.com/charliettaylor/rose-pine-gitui.git
 mv ./rose-pine-gitui/rose-pine.ron ~/.config/gitui/theme.ron
 ```
+# Gallery
+
+WIP
+
+# Contributing
+Feel free to update anything that I may have missed from the GitUI config
