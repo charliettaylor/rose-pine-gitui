@@ -20,10 +20,10 @@
 ## Locations
 Config locations ![here](https://github.com/gitui-org/gitui/blob/master/THEMES.md#configuration)
 
-- $HOME/.config/gitui/theme.ron (mac)
-- $XDG_CONFIG_HOME/gitui/theme.ron (linux using XDG)
-- $HOME/.config/gitui/theme.ron (linux)
-- %APPDATA%/gitui/theme.ron (Windows)
+- `$HOME/.config/gitui/theme.ron` (mac)
+- `$XDG_CONFIG_HOME/gitui/theme.ron` (linux using XDG)
+- `$HOME/.config/gitui/theme.ron` (linux)
+- `%APPDATA%/gitui/theme.ron` (Windows)
 
 ## Example
 ```bash
