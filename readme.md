@@ -37,7 +37,7 @@ WIP
 
 ## Contributing
 
-Feel free to suggest tweaks to the color usage or any GitUI components that I missed! Modify `template.json` using Rosé Pine variables, then build variants:
+Feel free to suggest tweaks to the color usage or any GitUI components that I missed! Modify `template.ron` using Rosé Pine variables, then build variants:
 
 ```sh
 npx @rose-pine/build@latest
