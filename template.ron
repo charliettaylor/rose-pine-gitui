@@ -1,0 +1,36 @@
+(
+    // Tabs
+    selected_tab: Some("$rose"),
+
+    // Command
+    command_fg: Some("$text"),
+    cmdbar_bg: Some("$highlightLow"),
+    cmdbar_extra_lines_bg: Some("$overlay"),
+
+    // Selection
+    selection_bg: Some("$highlightMed"),
+    selection_fg: Some("$text"),
+
+    // Diffs
+    diff_line_add: Some("$foam"),
+    diff_file_added: Some("$foam"),
+    diff_line_delete: Some("$rose"),
+    diff_file_removed: Some("$rose"),
+    diff_file_moved: Some("$iris"),
+    diff_file_modified: Some("$gold"),
+
+    // Commits
+    commit_hash: Some("$iris"),
+    commit_time: Some("$subtle"),
+    commit_author: Some("$subtle"),
+
+    // Branch/Tags
+    tag_fg: Some("$pine"),
+    branch_fg: Some("$rose"),
+
+    // Other UI
+    disabled_fg: Some("$muted"),
+    danger_fg: Some("$love"),
+    push_gauge_bg: Some("$base"),
+    push_gauge_fg: Some("$rose"),
+)
